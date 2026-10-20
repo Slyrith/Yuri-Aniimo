@@ -7,8 +7,14 @@
 https://discord.gg/DvP8UxQP3J
 </div>
 
-## Open Menu
-**Insert**
+## Getting Started
+
+### Usage
+
+1. Download the latest release.
+2. Launch `Launcher.exe`.
+3. Start the game manually.
+4. Once the game is open, press the `INSERT` key to open the GUI.
 
 ## Features
 
