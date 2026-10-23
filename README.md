@@ -1,10 +1,13 @@
 <div align="center">
 
-<img width="720" height="855" alt="31231313" src="https://github.com/user-attachments/assets/d56ed36e-7f14-4b1e-a07b-0b364ac426c3" />
+<img width="436" height="472" alt="yuri" src="https://github.com/user-attachments/assets/02bf83fc-991e-45fd-a1ea-970643aae237" />
 
 
 ### Yuri-Aniimo
-https://discord.gg/DvP8UxQP3J
+Free Aniimo Cheats <br>
+[![Downloads](https://img.shields.io/github/downloads/Slyrith/Yuri-Aniimo/total)](https://github.com/Slyrith/Yuri-Aniimo/releases)
+[![Release](https://img.shields.io/github/v/release/Slyrith/Yuri-Aniimo)](https://github.com/Slyrith/Yuri-Aniimo/releases/latest)
+[![Discord](https://img.shields.io/badge/Discord-Join%20us-5865F2?logo=discord&logoColor=white)](https://discord.gg/DvP8UxQP3J)
 </div>
 
 ## Getting Started
