@@ -7,7 +7,7 @@
 Free Aniimo Cheats <br>
 [![Downloads](https://img.shields.io/github/downloads/Slyrith/Yuri-Aniimo/total)](https://github.com/Slyrith/Yuri-Aniimo/releases)
 [![Release](https://img.shields.io/github/v/release/Slyrith/Yuri-Aniimo)](https://github.com/Slyrith/Yuri-Aniimo/releases/latest)
-[![Discord](https://img.shields.io/badge/Discord-Join%20us-5865F2?logo=discord&logoColor=white)](https://discord.gg/DvP8UxQP3J)
+[![Discord members](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Fv10%2Finvites%2FDvP8UxQP3J%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&label=Discord&suffix=%20members&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/DvP8UxQP3J)
 </div>
 
 ## Getting Started
