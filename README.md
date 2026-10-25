@@ -24,13 +24,16 @@ Free Aniimo Cheats <br>
 ### Character
 - Infinite stamina
 - Movement speed multiplier: 1–5×
-- Damage protection, including environmental damage
+- Damage protection
 - No fall damage
 - Dumb enemy: pauses nearby hostile enemy AI
-- Noclip / Fly with adjustable speed — WASD, Space up, Shift down
+- Noclip / Fly with adjustable speed — WASD, Space up, CTRL down
 - Infinite ability energy
 - No cooldown
-- Projectile multi-hit: 2–50× — extra projectiles aren’t guaranteed to all hit; pure melee isn’t covered
+- Multi-hit: 2–50×
+- DMG boost: 1-10x
+- 100% base crit chance (always crit)
+- Infinite egg dash (pls turn off noclip when using it)
 
 ### ESP
 - Highlights Aniimo, players, NPCs, resources, loot, chests, Aniipods, eggs, digging spots, containers and Egg Heist objects
@@ -43,9 +46,8 @@ Free Aniimo Cheats <br>
 - Travel to nearby treasure, resources, Aniipods, eggs, NPCs and wild Aniimo
 - Boss and Elite destinations, including map-marker fallback
 - Waypoint and tracked-quest destinations
-- Fixed 40 m/s flight-based travel
 - Cancel teleport
-- Stationary nearby auto-loot with adjustable search radius
+- nearby auto-loot with adjustable search radius
   
 ### Camera
 - Adjustable FOV: 40–100°
@@ -61,6 +63,11 @@ Free Aniimo Cheats <br>
 - Adjustable menu size and draggable menu
 - Save/load presets
 - Turn all features OFF
+
+### Capture
+- Auto catch
+- Mob vacuum
+- Capture rate buff
 
 Teleport still kinda wacky lmao, but ill fix it in the future soon
 
