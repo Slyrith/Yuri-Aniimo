@@ -34,6 +34,10 @@ Free Aniimo Cheats <br>
 - DMG boost: 1-10x
 - 100% base crit chance (always crit)
 - Infinite egg dash (pls turn off noclip when using it)
+- No overload
+- No fog
+- Holo-sim skip to final stage (skip to the last level)
+- Buffs menu (can activate up to 62 buff at the same time)
 
 ### ESP
 - Highlights Aniimo, players, NPCs, resources, loot, chests, Aniipods, eggs, digging spots, containers and Egg Heist objects
@@ -41,6 +45,8 @@ Free Aniimo Cheats <br>
 - Boxes and tracers
 - Aniimo level, HP, health bars and estimated catch chance
 - Adjustable range and category colours
+- Chest marker
+- Instantly shows loot before opening the chest
   
 ### Teleport / Loot
 - Travel to nearby treasure, resources, Aniipods, eggs, NPCs and wild Aniimo
@@ -63,7 +69,9 @@ Free Aniimo Cheats <br>
 - Adjustable menu size and draggable menu
 - Save/load presets
 - Turn all features OFF
-
+- keybind for opening menu on settings category
+- Characters and Aniimo skin changer
+  
 ### Capture
 - Auto catch
 - Mob vacuum
@@ -72,4 +80,4 @@ Free Aniimo Cheats <br>
 Teleport still kinda wacky lmao, but ill fix it in the future soon
 
 ## Screenshots
-<img width="898" height="558" alt="image" src="https://github.com/user-attachments/assets/2562c9e1-a52c-4320-baaa-40197aa486be" />
+<img width="905" height="565" alt="image" src="https://github.com/user-attachments/assets/8453ad28-a8be-4da8-bda3-c80592d06e5f" />
