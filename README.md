@@ -2,7 +2,6 @@
 
 <img width="436" height="472" alt="yuri" src="https://github.com/user-attachments/assets/02bf83fc-991e-45fd-a1ea-970643aae237" />
 
-
 ### Yuri-Aniimo
 Free Aniimo Cheats <br>
 [![Downloads](https://img.shields.io/github/downloads/Slyrith/Yuri-Aniimo/total)](https://github.com/Slyrith/Yuri-Aniimo/releases)
@@ -23,6 +22,7 @@ Free Aniimo Cheats <br>
 ## Features
 
 ### Character
+
 - Infinite stamina
 - Movement speed multiplier: 1–5×
 - Damage protection
@@ -41,27 +41,40 @@ Free Aniimo Cheats <br>
 - Buffs menu (can activate up to 62 buff at the same time)
 
 ### ESP
-- Highlights Aniimo, players, NPCs, resources, loot, chests, Aniipods, eggs, digging spots, containers and Egg Heist objects
+
+- Highlights Aniimo, players, NPCs, resources, loot, chests, Aniipods, eggs, digging spots, and containers
+- Sparkling and Umbra Aniimo highlights
+- Egg Heist ESP for chests, resources, nests, eggs, and objects
 - Names and distances
 - Boxes and tracers
 - Aniimo level, HP, health bars and estimated catch chance
 - Adjustable range and category colours
-- Chest marker
-- Instantly shows loot before opening the chest
-  
+- Chest markers and instant loot preview before opening a chest
+- Show unclaimed chests and Lumin Amber on the map
+- Hide map fog
+- Adjustable map icon size (10–50 px)
+
 ### Teleport / Loot
+
 - Travel to nearby treasure, resources, Aniipods, eggs, NPCs and wild Aniimo
 - Boss and Elite destinations, including map-marker fallback
 - Waypoint and tracked-quest destinations
+- Map-click teleport
+- Saved locations with previous and next hotkeys
+- Scene presets and custom destinations
+- Return to overworld from the Ark
 - Cancel teleport
-- nearby auto-loot with adjustable search radius
-  
+- Nearby auto-loot with adjustable search radius
+
 ### Camera
+
 - Adjustable FOV: 40–100°
 - Free camera with adjustable speed
 - Reset camera position
-  
+- No model transparency
+
 ### Misc / Settings
+
 - Lock time of day
 - Hide game HUD
 - Movable FPS counter
@@ -70,15 +83,20 @@ Free Aniimo Cheats <br>
 - Adjustable menu size and draggable menu
 - Save/load presets
 - Turn all features OFF
-- keybind for opening menu on settings category
-- Characters and Aniimo skin changer
-  
+- Change the menu keybind in Settings
+- Character and Aniimo skin changer
+- Wardrobe preview for outfits, hair, and accessories
+- Nickname and UID aliases (local display)
+
 ### Capture
+
 - Auto catch
+- Auto release
+- Aura catch
 - Mob vacuum
 - Capture rate buff
-
-Teleport still kinda wacky lmao, but ill fix it in the future soon
+- Catch history
 
 ## Screenshots
-<img width="905" height="565" alt="image" src="https://github.com/user-attachments/assets/8453ad28-a8be-4da8-bda3-c80592d06e5f" />
+
+<img src="https://i.imgur.com/jgPxDN0.png"/>
